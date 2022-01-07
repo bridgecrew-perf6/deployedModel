@@ -1,4 +1,5 @@
 absl-py==1.0.0
+anaconda-navigator==2.1.0
 appdirs==1.4.4
 argh==0.26.2
 astunparse==1.6.3
@@ -13,7 +14,6 @@ cachetools==4.2.2
 causalgraphicalmodels==0.0.4
 certifi==2020.12.5
 comtypes==1.1.9
-conda==4.11.0
 conda-build==3.21.4
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
